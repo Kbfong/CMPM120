@@ -1,3 +1,3 @@
 # CMPM120
 CMPM120 Practice Repository
-Second Commit
+Third Commit after resolving merge conflict.
